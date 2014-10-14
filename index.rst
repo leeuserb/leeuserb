@@ -8,12 +8,13 @@ Welcome to leeuserb's documentation!
 
 Contents:
 
+Python
+
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-   hello
-
-
+   python/*
 
 .. Indices and tables
 .. ==================
